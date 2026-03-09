@@ -44,3 +44,6 @@ father → татко
 
 📸 Screenshots
 [Main Screen](screenshots/Capture2.PNG)
+[Dictionary Search](screenshots/Capture5.PNG)
+[English to Macedonian](screenshots/Capture6.PNG)
+[English to Macedonian](screenshots/Capture7.PNG)
