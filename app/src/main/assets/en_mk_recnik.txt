@@ -1,0 +1,10 @@
+father, татко
+desk, маса
+chair, столица
+sun, сонце
+book, книга
+water, вода
+teacher, наставник
+door, врата
+apple, јаболко
+car, автомобил
