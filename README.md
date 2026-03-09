@@ -43,6 +43,7 @@ father → татко
 татко → father
 
 📸 Screenshots
+
 [Main Screen](screenshots/Capture2.PNG)
 
 [Dictionary Search](screenshots/Capture5.PNG)
