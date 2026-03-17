@@ -52,4 +52,4 @@ father → татко
 
 [Search Result Example](screenshots/Capture7.PNG)
 
-[Macedonian English to](screenshots/Capture8.PNG)
+[Macedonian to English](screenshots/Capture8.PNG)
